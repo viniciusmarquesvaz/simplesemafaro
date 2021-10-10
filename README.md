@@ -8,7 +8,8 @@ Mini projeto eletrônico com o uso de arduino par amanipular os componentes
 - [Tinkercad](https://www.tinkercad.com)
 
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elo7.com.br%2Ftotem-de-chao-avulso-semaforo-transito%2Fdp%2FBFB56A&psig=AOvVaw1cbUPAhEmbbIkd2QY6c4sK&ust=1633985367240000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCOjuobjbwPMCFQAAAAAdAAAAABAJ
+![image](https://user-images.githubusercontent.com/80642632/136712640-cdeef5d6-f6c4-445e-bbbc-4761964c3d12.png)
+
 
 
 
