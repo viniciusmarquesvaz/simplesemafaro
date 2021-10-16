@@ -1,4 +1,4 @@
-# Oi, tudo bem? Realizei este mini projeto!
+Realização este mini projeto!
 
 Mini projeto eletrônico com o uso de arduino par amanipular os componentes
 
